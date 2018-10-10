@@ -9,7 +9,9 @@
     "proto": true,
     "supernew": true,
     "noyield": true,
-    "evil": true,
+    test
+    test more
+    test even more
     "node": true,
     "boss": true,
     "expr": true,
